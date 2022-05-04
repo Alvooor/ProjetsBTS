@@ -3,7 +3,7 @@
 class bdd_access{
     
     private static $serveur='mysql:host=localhost';
-    private static $bdd='dbname=gsbfrais';   		
+    private static $bdd='dbname=gsbfraisbapt';   		
     private static $user='root' ;    		
     private static $mdp='' ;	
     private static $monPdo;
